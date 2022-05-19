@@ -3,10 +3,10 @@
 # Final Project - Shortest Path in California Road Network
 
 ### Group members
-- hakyung4
-- sangwoo2
-- analla6
-- anahas2
+- Hakyung Yun
+- Sangwoo Kim
+- Akhil Nallacheruvu
+- Ahmed Nahas
 
 ### How it works
 Our program uses data from [California Road Network and Points of Interest](https://www.cs.utah.edu/~lifeifei/SpatialDataset.htm) to find the shortest path of getting to one place from another. We use both BFS and Dijkstra's algorithm to find the shortest path, compare the run time, and decide which one is more efficient.
@@ -55,6 +55,4 @@ When compiling and running the execultable `main` file, it will ask you to put d
 
 
 
-### Final Presentation Video
 
-https://youtu.be/EbAMA-AcTgk
